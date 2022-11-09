@@ -1,5 +1,3 @@
-# stock-analysis
-Files for Module 2 
 
 # Stock Analysis ReFactor
 
