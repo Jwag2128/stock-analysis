@@ -23,6 +23,11 @@
 
 ![2017_Pivot](https://user-images.githubusercontent.com/106286533/205513127-e4886097-8b28-451d-9312-be1910e5daf0.png)
 
+### Tableau was used to show Stock performance and Volume.  View the dashboard [here](https://public.tableau.com/views/StockAnalysis_16701891991510/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+Chart example
+![2017_dashboard](https://user-images.githubusercontent.com/106286533/205516771-32d7b65d-9827-4d61-a271-1f5ea0215276.png)
+
 ## Project Summary
 ### Advantages and Disadvantages
 ### The purpose and advantage of refactoring code is that it can make it run more efficiently by taking fewer steps, which will take up less computer memory and will execute in less time.  The code can also be easier to understand when it is has improved logical steps.  
