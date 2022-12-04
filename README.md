@@ -1,5 +1,6 @@
-
 # Stock Analysis ReFactor
+
+![stock_price_market](https://user-images.githubusercontent.com/106286533/205513482-70631d74-2082-4b93-8959-c99c5b01aab6.jpg)
 
 ## Project Overwiew
 ### The purpose of this project is to run an analysis on multiple stocks for our client Steve.  The data that will be presented is the Total Daily Volume and Rate of return over the selected year.  I have taken code previously written and refactored it so it runs faster and more efficiently.  The final result will allow Steve to choose the year and get the data he needs to make an informed decision on which stock is best suited for investment.  
